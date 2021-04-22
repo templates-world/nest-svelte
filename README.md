@@ -5,7 +5,7 @@ A [NestJs](https://nestjs.com) and [SvelteJs](https://svelte.dev) combo. A reall
 ## Installation
 
 ```bash
-npx degit frontend-template-world/nest-svelte # or yarn degit frontend-template-world/nest-svelte
+npx degit frontend-templates-world/nest-svelte # or yarn degit frontend-template-world/nest-svelte
 cd nest-svelte
 npm i # or yarn
 ```
